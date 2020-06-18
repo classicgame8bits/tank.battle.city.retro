@@ -5,7 +5,7 @@
   "forceUpdateUrl": "market://details?id=tank.battle.city.retro",
   "checkClone": false,
   "reviewVersion": -1,
-  "showNESGamesTimeDelay": 100,
+  "showNESGamesTimeDelay": 0,
   "adsNetwork": 0,
   "adsType": 0,
   "numberPressToShowAds": 20,
